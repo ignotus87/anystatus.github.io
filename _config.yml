@@ -3,7 +3,7 @@ email: info@anystat.us
 description: >- # this means to ignore newlines until "baseurl:"
   AnyStatus is a lightweight desktop application designed to bring you metrics and events from various sources.
 baseurl: ""
-url: "https://www.anystat.us"
+url: "https://ignotus87.github.io/anystatus.github.io/"
 markdown: kramdown
 plugins:
   - jekyll-feed
